@@ -1,0 +1,14 @@
+E:\LEVEL7\BibliotecaApp\bin\Debug\net9.0-windows\BibliotecaApp.exe
+E:\LEVEL7\BibliotecaApp\bin\Debug\net9.0-windows\BibliotecaApp.deps.json
+E:\LEVEL7\BibliotecaApp\bin\Debug\net9.0-windows\BibliotecaApp.runtimeconfig.json
+E:\LEVEL7\BibliotecaApp\bin\Debug\net9.0-windows\BibliotecaApp.dll
+E:\LEVEL7\BibliotecaApp\bin\Debug\net9.0-windows\BibliotecaApp.pdb
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfoInputs.cache
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\BibliotecaApp.AssemblyInfo.cs
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\BibliotecaApp.csproj.CoreCompileInputs.cache
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\BibliotecaApp.dll
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\refint\BibliotecaApp.dll
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\BibliotecaApp.pdb
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\BibliotecaApp.genruntimeconfig.cache
+E:\LEVEL7\BibliotecaApp\obj\Debug\net9.0-windows\ref\BibliotecaApp.dll

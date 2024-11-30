@@ -1,0 +1,14 @@
+E:\LEVEL7\teloslevel7\bin\Debug\net9.0-windows\teloslevel7.exe
+E:\LEVEL7\teloslevel7\bin\Debug\net9.0-windows\teloslevel7.deps.json
+E:\LEVEL7\teloslevel7\bin\Debug\net9.0-windows\teloslevel7.runtimeconfig.json
+E:\LEVEL7\teloslevel7\bin\Debug\net9.0-windows\teloslevel7.dll
+E:\LEVEL7\teloslevel7\bin\Debug\net9.0-windows\teloslevel7.pdb
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\teloslevel7.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\teloslevel7.AssemblyInfoInputs.cache
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\teloslevel7.AssemblyInfo.cs
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\teloslevel7.csproj.CoreCompileInputs.cache
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\teloslevel7.dll
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\refint\teloslevel7.dll
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\teloslevel7.pdb
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\teloslevel7.genruntimeconfig.cache
+E:\LEVEL7\teloslevel7\obj\Debug\net9.0-windows\ref\teloslevel7.dll
